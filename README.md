@@ -1,3 +1,12 @@
+Tourist App
+Tourist App
+I developed a full-stack web application called Tourist App to provide users with comprehensive information about tourist destinations. This project utilized Python and Django Rest Framework for the backend and React for the frontend.
+
+Key Features:
+1. Admin Functionality: Admins can add new tourist places, upload related images, include weather descriptions, and provide Google Maps links for easy navigation.
+2. User Experience: Users can browse and search for places they are interested in, enhancing their trip planning process with detailed information and interactive features.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
